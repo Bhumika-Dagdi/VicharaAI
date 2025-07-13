@@ -1,0 +1,14 @@
+# Ignore folders
+uploaded_files/
+
+utils/__pycache__/
+
+logs/
+
+# Ignore specific files
+credential.env
+config.py
+digital_image.png
+PyWhatKit_DB.txt
+
+

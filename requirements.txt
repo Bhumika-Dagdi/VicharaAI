@@ -1,0 +1,26 @@
+streamlit
+python-dotenv
+paramiko
+pywhatkit
+# smtplib ; standard library
+# email ; standard library
+twilio
+requests
+beautifulsoup4
+tweepy
+Pillow
+opencv-python
+numpy
+pandas
+psutil
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyaudio
+serpapi
+google-search-results
+PyPDF2
+plotly
+deep_translator
+qrcode
+pypdf
