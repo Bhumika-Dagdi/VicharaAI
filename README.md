@@ -55,11 +55,11 @@
 
 | Layer         | Tools/Libs                                   |
 |---------------|----------------------------------------------|
-| Frontend      | `Streamlit`, `HTML/CSS`, `PIL`, `Matplotlib` |
+| Frontend      | `Streamlit`, `PIL`, `Matplotlib`             |
 | Voice         | `SpeechRecognition`, `PyAudio`               |
-| NLP/Chat      | `OpenAI API`, `transformers`, `langchain`    |
+| Chat          | `OpenAI API`                                 |
 | Communication | `Twilio`, `SMTP`, `pywhatkit`                |
-| System Access | `os`, `shutil`, `psutil`, `platform`, `glob` |
+| System Access | `os`, `shutil`, `psutil`                     |
 | ML/Logic      | `scikit-learn`, `pandas`, `joblib`           |
 | Others        | `docx`, `pdfplumber`, `base64`, `requests`   |
 
