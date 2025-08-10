@@ -11,12 +11,6 @@
 - Keyword-based **defense mode**: triggers alerts, SMS, and location fetch.
 - Automatically logs actions and interactions.
 
-### 🗂️ Smart File Manager
-- Upload, rename, delete, move/copy files between folders.
-- Filter by file type, size, or name.
-- Preview formats: `TXT`, `PDF`, `CSV`, `JSON`, `DOCX`, `JPG`, `PNG`, `JPEG`.
-- Admin-only access via password.
-- Download support, folder creation, and image conversion (PNG ⇄ JPG).
 
 ### 📧 Communication Tools
 - Send:
